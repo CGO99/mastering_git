@@ -1,4 +1,4 @@
-## Hello git
+## Heyoo evreyone, welmcome to my guide!
 
--I'm adding this from 
-'feature-description'
+- Yo, Jhonny here!
+-I'm adding this from  `feature-description`
